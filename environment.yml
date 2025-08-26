@@ -1,0 +1,15 @@
+# environment.yml
+name: hempriser
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - requests
+  - pandas
+  - scikit-learn
+  - pymongo
+  - python-dotenv
+  - cerberus
+  - matplotlib
+  - pyarrow
